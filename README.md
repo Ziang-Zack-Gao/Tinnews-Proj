@@ -1,5 +1,5 @@
 # Tinnews-Proj
-Tinnews
+Tinnews: A Tinder-like News App
 ----
 A news app on Android for users to read various news and like/dislike it with simple operation.<br>
   * Designed the Instagram Flavor News app based on Google Component Architectural MVVM Pattern
